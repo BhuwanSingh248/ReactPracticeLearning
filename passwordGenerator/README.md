@@ -6,3 +6,9 @@ capture event on any components change, which will generate password if any of g
 - include chars
 
 copy button copy the password and select the string 
+
+learning include use of 
+    - useState, 
+    - useCallback, 
+    - useEffect, 
+    - useRef
